@@ -1,1 +1,2 @@
-# DeliveryParty_native_version
+# ReactNativeCli
+DeliveryPartyFromReactnativeCli
